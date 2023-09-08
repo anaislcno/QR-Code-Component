@@ -53,8 +53,12 @@ p {
 }
 
 .attribution {
+  position: fixed;
+  bottom: 5px;
   font-size: 11px;
+  width: 100%;
   text-align: center;
+  align-self: flex-end;
 }
 
 .attribution a {
